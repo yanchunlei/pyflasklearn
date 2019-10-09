@@ -21,10 +21,4 @@ class Config(object):
     # MAIL_USERNAME = 'y20080328@126.com'
     # MAIL_PASSWORD = '123zxc456vbn'
     # ADMINS = ['y20080328@126.com']
-    MAIL_SERVER = 'smtp.mxhichina.com'
-    MAIL_PORT = 465
-    MAIL_USE_TLS = False
-    MAIL_USE_SSL = True
-    MAIL_USERNAME = 'yanchunlei@wujibros.com'
-    MAIL_PASSWORD = '123zxc$%^VBN'
-    ADMINS = ['yanchunlei@wujibros.com']
+    
